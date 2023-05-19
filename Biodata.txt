@@ -1,3 +1,9 @@
-Nama: #N/A
-Umur: #N/A
-Alamat: #N/A
+Nama: edwin
+Umur: 18
+Alamat: jebres
+Email
+
+Nama: Edwin
+Umur: 18
+Alamat: Jebres
+Email: edwinsiregar1221@gmail.com
